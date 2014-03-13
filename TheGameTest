@@ -1,0 +1,5 @@
+git $ init TheGameTest
+cd $ TheGameTest
+create file1.txt
+git $ add file1.txt
+git $ commit -m"My First Commit"
